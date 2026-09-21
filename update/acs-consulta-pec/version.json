@@ -1,0 +1,9 @@
+{
+  "version": "0.4.0",
+  "build_number": 10,
+  "package_name": "br.com.welison.acs_consulta_pec",
+  "apk_url": "https://github.com/Welison-ACS/psfv-updates/releases/download/acs-v0.4.0/app-release.apk",
+  "notes": "Primeira versão do ACS Consulta PEC com atualizador manual.",
+  "mandatory": false,
+  "sha256": ""
+}
