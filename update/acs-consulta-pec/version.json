@@ -1,9 +1,9 @@
 ﻿{
-  "version": "0.4.3",
-  "build_number": 13,
+  "version": "0.4.4",
+  "build_number": 14,
   "package_name": "br.com.welison.acs_consulta_pec",
-  "apk_url": "https://github.com/Welison-ACS/psfv-updates/releases/download/acs-v0.4.3/app-release.apk",
-  "notes": "Correção definitiva do instalador de atualizações.",
+  "apk_url": "https://github.com/Welison-ACS/psfv-updates/releases/download/acs-v0.4.4/app-release.apk",
+  "notes": "Teste final do instalador interno.",
   "mandatory": false,
-  "sha256": "dfb1d1976a0189faf3b5e58d1202d186e42f66bffd69bdcbd455fb5aaeedbf3e"
+  "sha256": "1cf4688aa10bcd51f3d74154b65f32c6a2a951f4497e9172fa74f90ab1d4eebd"
 }
