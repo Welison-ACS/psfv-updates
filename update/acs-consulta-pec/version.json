@@ -1,9 +1,8 @@
 {
-    "version":  "0.4.6",
-    "build_number":  16,
-    "package_name":  "br.com.welison.acs_consulta_pec",
-    "apk_url":  "https://github.com/Welison-ACS/psfv-updates/releases/download/acs-v0.4.6/app-release.apk",
-    "notes":  "Versão real do aplicativo e teste de atualização.",
-    "mandatory":  false,
-    "sha256":  "13a353318bee33ac6c349e17e254dd409329dcd633cb49807a6977f7b3d7f1b4"
+  "package_name": "br.com.welison.acs_consulta_pec",
+  "version": "0.6.3",
+  "build_number": 33,
+  "apk_url": "https://github.com/Welison-ACS/psfv-updates/releases/download/v0.6.3/PSF-Digital-0.6.3.apk",
+  "sha256": "927db8cfb7ed92c29acbd50db8e4d08cbe400f1dca52650e89c1c2a44a7dd9bf",
+  "notes": "Correção do novo endereço do PEC."
 }
